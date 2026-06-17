@@ -1,33 +1,34 @@
-## 📋 Description
-<!-- Clearly describe the purpose of this pull request -->
-What changes are you making and why?
+## 📝 Description
+<!-- What changes did you make? Why? -->
 
-## 🔗 Related Issue
-<!-- Link to the issue this PR addresses -->
-Closes #(issue number)
 
-## 🧪 Testing
-<!-- How should this be tested? Include step-by-step instructions -->
-1. Step 1
-2. Step 2
-3. Expected result
+## 🔗 Related JIRA
+<!-- Link to JIRA ticket (e.g., GARH-12356) -->
 
-## 📸 Screenshots (if applicable)
-<!-- Add screenshots for UI changes -->
 
-## ✅ Pre-Merge Checklist
-- [ ] Code follows the project's style guidelines
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] PMD scan shows no new issues
+## 🎯 Type of Change
+<!-- Check the box for the type of change -->
 
-## 👥 Reviewers
-<!-- Mention the person or team responsible for review -->
-@mention-reviewer
+- [ ] 🐛 Bug fix
+- [ ] ✨ New feature
+- [ ] 📚 Documentation update
+- [ ] ♻️ Code refactoring
+- [ ] 🔒 Security improvement
 
-## 📝 Additional Notes
-<!-- Any additional context or concerns -->
+
+## 🧪 Test Coverage Screenshot
+<!-- Paste your test coverage screenshot here -->
+
+
+## ✅ Checklist
+<!-- Check the box for each item you've completed -->
+
+- [ ] Code follows the guidelines & best practices
+- [ ] Performed a self-review of my own code
+- [ ] New and existing unit tests pass with my changes
+- [ ] Added screenshot of code coverage (if applicable)
+- [ ] Resolved reported PMD vulnerability on my changes
+
+
+## 📌 Additional Notes
+<!-- Any other information for reviewers? (Optional) -->
